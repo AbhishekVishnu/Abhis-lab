@@ -1,0 +1,12 @@
+ h1 
+  {color:blue;
+  font-size:50px;
+  padding-top:20px;
+  }
+ body 
+   {background-color: black;
+    background-image: url("gud.gif");
+	background-repeat: no-repeat;
+    background-position: center;
+	background-size: 450px;
+  }
